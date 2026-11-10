@@ -5,3 +5,10 @@ dist
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+
+build
+
+# Heavy video/audio assets
+public/*.mp4
+public/*.mp3
+public/*.png
